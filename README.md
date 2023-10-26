@@ -24,7 +24,8 @@ An e-learning platform is a comprehensive and user-friendly solution designed to
 - Django
 - Django REST framework
 - PostgreSQL
-- Javascript for WebSockets (for real-time features)
+- Javascript
+- WebSockets (for real-time features)
 - ASGI (for asynchronous tasks)
 - Docker (for containerization)
 
