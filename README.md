@@ -32,11 +32,11 @@ An e-learning platform is a comprehensive and user-friendly solution designed to
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Brainboxx/ShelterSearch.git
+   git clone https://github.com/Brainboxx/educamy.git
    ```
 3. Change to the project directory:
    ```
-   cd ShelterSearch
+   cd educamy
    ```
 5. Create a virtual environment:
    ```
