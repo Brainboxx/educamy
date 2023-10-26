@@ -75,7 +75,7 @@ An e-learning platform is a comprehensive and user-friendly solution designed to
 1. Clone the repository.
 
    ```sh
-   git clone https://github.com/your-username/your-elearning-platform.git
+   git clone https://github.com/Brainboxx/educamy.git
 
 
 
