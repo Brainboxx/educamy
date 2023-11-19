@@ -1,6 +1,6 @@
-# Your Django E-Learning Platform
+# Django E-Learning Platform
 
-An e-learning platform is a comprehensive and user-friendly solution designed to facilitate online education. With a robust feature set, it empowers both instructors and students to engage in effective and efficient learning experiences. Instructors can create, manage, and deliver courses, including video, image, file and text contents, while students can easily enroll in courses, and participate in discussions. This platform is built with scalability and flexibility in mind, making it suitable for a wide range of educational institutions and organizations. Whether you're an educational institution looking to take your courses online or an individual instructor wanting to share knowledge, this e-learning platform provides the tools you need for a seamless and engaging learning environment.
+This e-learning platform is a comprehensive and user-friendly solution designed to facilitate online education. With a robust feature set, it empowers both instructors and students to engage in effective and efficient learning experiences. Instructors can create, manage, and deliver courses, including video, image, file and text contents, while students can easily enroll in courses, and participate in discussions. This platform is built with scalability and flexibility in mind, making it suitable for a wide range of educational institutions and organizations. Whether you're an educational institution looking to take your courses online or an individual instructor wanting to share knowledge, this e-learning platform provides the tools you need for a seamless and engaging learning environment.
 
 ## Table of Contents
 - [Features](#features)
